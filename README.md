@@ -4,7 +4,7 @@
 
 Currently supports Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, and Heap Sort
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/Scrolen/3D-Sorting-Algorithim-Visualizer/blob/main/GIF.gif)
 
 #### Movement Controls
 
